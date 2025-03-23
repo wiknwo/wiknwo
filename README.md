@@ -1,4 +1,4 @@
-![Will's GitHub Banner]()
+![Will's GitHub Banner](zephyrandcuba.jpg)
 
 # William Ikenna-Nwosu (wiknwo)
 
