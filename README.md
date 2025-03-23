@@ -16,7 +16,7 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 
 ### Technologies: Craft
 
-![**My Complete Technical Toolbox:**](https://www.pinterest.com/wiknwo/my-tech-toolbox/)
+[**My Complete Technical Toolbox:**](https://www.pinterest.com/wiknwo/my-tech-toolbox/)
 
 #### Favorites
 - Programming Language: Ruby
