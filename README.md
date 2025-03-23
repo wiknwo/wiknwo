@@ -1,6 +1,7 @@
 ![Will's GitHub Banner](zephyrandcuba.jpg)
 
 # William Ikenna-Nwosu (wiknwo)
+![Profile Views](https://komarev.com/ghpvc/?username=wiknwo&color=blue)
 
 My name is Will 😁 and this is my *developer (software, web, mobile, app)* landing page!
 
@@ -32,7 +33,10 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 #### Most Experience
 
 - **Programming Languages:** Python, Java
-- **IDE:** MSVSCODE 
+- **IDE:** MSVSCODE
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiknwo&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiknwo&layout=compact&theme=tokyonight)
 
 ### Status Update: Moving at the Speed of Now
 
