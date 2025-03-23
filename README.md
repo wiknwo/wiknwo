@@ -1,6 +1,8 @@
+![Will's GitHub Banner]()
+
 # William Ikenna-Nwosu (wiknwo)
 
-My name is Will 😁 and this is my developer (software, web, mobile, app) landing page!
+My name is Will 😁 and this is my *developer (software, web, mobile, app)* landing page!
 
 ### Greeting: Hi there 👋🏽, I'm a founder and I...
 
