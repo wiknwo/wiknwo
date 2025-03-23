@@ -6,13 +6,13 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 
 ### Greeting: Hi there 👋🏽, I'm a founder and I...
 
-➤ **Analyze data** 🧑🏽‍💻  
-➤ **Provide unique insights** 🔮🪄
-➤ **Communicate incisively** 🗣️🗨️💻🎯 
-➤ **Untie Gordian knots** 🪢🔓 
-➤ **Shoot for the moonshots** 🔫🌚 
-➤ **Hit hidden targets** 👻🐘 
-➤ **Form community with Empathy** 🤲🏽🗺️🌐
+- **Analyze data** 🧑🏽‍💻
+- **Provide unique insights** 🔮🪄
+- **Communicate incisively** 🗣️🗨️💻🎯
+- **Untie Gordian knots** 🪢🔓
+- **Shoot for the moonshots** 🔫🌚
+- **Hit hidden targets** 👻🐘
+- **Form community with Empathy** 🤲🏽🗺️🌐
 
 ### Status Update: Moving at the Speed of Now
 
