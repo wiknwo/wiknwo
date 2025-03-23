@@ -25,6 +25,9 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 - **IDE:** Sublime Text
 - **API:** OpenAlex
 - **Data Format:** JSON
+- **Web Browser:** Arc and probably Comet by Perplexity when it's launched
+- **Search Engine:** Perplexity
+- **Chatbot:** ChatGPT
 
 #### Most Experience
 
