@@ -1,9 +1,16 @@
-## Hi there 👋
+# William Ikenna-Nwosu (wiknwo)
 
-<!--
-**wiknwo/wiknwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋🏽, I'm a founder and I...
+- **Analyze data** 🧑🏽‍💻
+- **Provide unique insights** 🔮🪄
+- **Communicate incisively** 🗣️🗨️💻🎯
+- **Untie Gordian knots** 🪢🔓
+- **Shoot for the moonshots** 🔫🌚
+- **Hit hidden targets** 👻🐘
+- **Form community with Empathy** 🤲🏽🗺️🌐
 
-Here are some ideas to get you started:
+
+### Moving at the Speed of Now
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +20,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
