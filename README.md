@@ -19,17 +19,17 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 [**My Complete Technical Toolbox**](https://www.pinterest.com/wiknwo/my-tech-toolbox/)
 
 #### Favorites
-- Programming Language: Ruby
-- Image File Format: PNG
-- Text Editor: Microsoft Notepad
-- IDE: Sublime Text
-- API: OpenAlex
-- Data Format: JSON
+- **Programming Language:** Ruby
+- **Image File Format:** PNG
+- **Text Editor:** Microsoft Notepad
+- **IDE:** Sublime Text
+- **API:** OpenAlex
+- **Data Format:** JSON
 
 #### Most Experience
 
-- Programming Languages: Python, Java
-- IDE: MSVSCODE 
+- **Programming Languages:** Python, Java
+- **IDE:** MSVSCODE 
 
 ### Status Update: Moving at the Speed of Now
 
