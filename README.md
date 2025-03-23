@@ -42,7 +42,7 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 
 - *🔨 I'm currently building:* ...GAPRSv2.0
 - *🔭 I’m currently exploring:* ...Social Media, Open-Source and Deep Learning Libraries
-- *🔍 I'm currently analyzing:* ...The markets
+- *🔍 I'm currently analyzing:* ...The labor market
 - *🌱 I’m currently learning:* ...About the central nervous system and ActivityPub Protocol
 - *🫱🏽‍🫲🏽 I’m looking to collaborate on:* ...Fridays
 - *🤔 I’m looking for help with:* ...
