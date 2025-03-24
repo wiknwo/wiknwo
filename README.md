@@ -38,6 +38,37 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiknwo&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wiknwo&layout=compact&theme=tokyonight)
 
+### Hobbies
+
+- Web Surfing
+- Reconnaissance
+- **Sports:** Soccer (Football), Swimming, Judo, Exercise, Walking, Dodgeball
+- **Unwind:** Lounging, Massage, Sauna, Napping, Sleeping, Cloudwatching, Stargazing
+- **Play:** Instruments, Games
+- **Consumption:** Listening to Music; Podcasts, Reading Books, Watching Movies; TV Shows; Documentaries; Interviews; YouTube
+- **Create:** Content (Social Media, Poetry, Scripts) 
+
+### Interests
+
+#### Technical
+
+- **Artificial Intelligence (AI) Research:** Search, Operations Research (Optimization), Games, Game Theory, Economics, "Autonomous Agents, Multi-Agent Systems and Reinforcement Learning (AAMASRL)", Natural Language Processing (NLP) for Under-resourced Languages,
+- Complex Adaptive Systems (CAS)
+- **Computer Science (CS):** Computational Complexity Theory, Data Structures, Algorithms, Compilers
+- Data Science (DS)
+- Analytics
+- **Games:** COmputer Graphics
+- **Design:** Graphic Design, Software Design, System Design, Game Design, Design Thinking, Human-Computer Interaction (HCI), User-Interface (UI) Design, USer-Experience (UX) Design, Industrial Design, Architectural Design
+- Automation 
+
+#### Non-Technical
+
+- **Design:** Fashion, Visual Arts, Fine Arts, Audio Arts, Streetwear, Game Concept Art
+- **Reviews:** Art (All Forms), Product, Books, Experiences, Technology
+- Case Studies
+- Cases
+- Volunteering
+
 ### Status Update: Moving at the Speed of Now
 
 - *🔨 I'm currently building:* ...GAPRSv2.0
