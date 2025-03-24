@@ -43,7 +43,7 @@ My name is Will 😁 and this is my *developer (software, web, mobile, app)* lan
 - Web Surfing
 - Reconnaissance
 - **Sports:** Soccer (Football), Swimming, Judo, Exercise, Walking, Dodgeball
-- **Unwind:** Lounging, Massage, Sauna, Napping, Sleeping, Cloudwatching, Stargazing
+- **Unwind:** Lounging, Massage, Sauna, Napping, Sleeping, Cloudwatching, Stargazing, Dancing, Nightclubs
 - **Play:** Instruments, Games
 - **Consumption:** Listening to Music; Podcasts, Reading Books, Watching Movies; TV Shows; Documentaries; Interviews; YouTube
 - **Create:** Content (Social Media, Poetry, Scripts) 
